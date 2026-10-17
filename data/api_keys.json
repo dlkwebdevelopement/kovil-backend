@@ -1,0 +1,28 @@
+{
+  "keys": [
+    {
+      "name": "Default Temple Key",
+      "key": "temple-api-373a28eb7d0a472d",
+      "created_at": "2026-08-05T09:37:26.081Z",
+      "active": true,
+      "usage_count": 0,
+      "description": "Auto-generated default API key"
+    },
+    {
+      "name": "tamil",
+      "key": "temple-api-2e4278a919aa46949bb24bb4",
+      "created_at": "2026-08-05T09:37:26.093Z",
+      "active": true,
+      "usage_count": 0,
+      "description": "new"
+    },
+    {
+      "name": "Unnamed Key",
+      "key": "temple-api-228e779bcce24d06954db1c3",
+      "created_at": "2026-08-05T10:05:09.759Z",
+      "active": true,
+      "usage_count": 0,
+      "description": ""
+    }
+  ]
+}

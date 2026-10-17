@@ -1,0 +1,70 @@
+{
+  "title": "தரிசன காணொளி",
+  "title_en": "Darshan Videos",
+  "description": "அம்மனின் சிறப்பு அலங்காரங்கள் மற்றும் திருவிழா நிகழ்வுகளைக் கண்டு தரிசனம் செய்யுங்கள்.",
+  "description_en": "Witness divine alankaram, sacred rituals, and grand festival celebration moments of Amman.",
+  "videos": [
+    {
+      "id": "video-1792078903334",
+      "title": "Kaliamman thirukoil Navaratri vizha",
+      "title_en": "Navaratri Special Pooja",
+      "url": "/uploads/darshan-video-1792133771488.mp4",
+      "autoplay": false,
+      "loop": true,
+      "muted": true,
+      "controls": true,
+      "category": "நேரலை",
+      "description": "Kaliamman thirukoil Navaratri vizha 4th day Annapoorani Alangaram",
+      "description_en": "Special pooja and festival darshan celebrated at the holy temple.",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "video-1792151384234",
+      "title": "Kaliamman thirukoil Navaratri vizha",
+      "category": "நேரலை",
+      "description": "Kaliamman thirukoil Navaratri vizha 4th day Annapoorani Alangaram",
+      "date": "2026-10-14",
+      "url": "/uploads/darshan-video-1792151384172.mp4",
+      "autoplay": false,
+      "loop": true,
+      "muted": true,
+      "controls": true
+    },
+    {
+      "id": "video-1792158191948",
+      "title": "அன்னதானம் 🙏",
+      "category": "பொது",
+      "description": "அருள்மிகு மகா காளியம்மன் திருவருளால், பசித்தவர்களுக்கு உணவளித்து அன்பையும் கருணையையும் பகிர்வோம். ஓம் சக்தி! 🙏",
+      "date": "2026-10-15",
+      "url": "/uploads/darshan-video-1792158191644.mp4",
+      "autoplay": false,
+      "loop": true,
+      "muted": true,
+      "controls": true
+    },
+    {
+      "id": "video-1792159394722",
+      "title": "நவராத்திரி விழா 🙏",
+      "category": "சிறப்பு பூஜை",
+      "description": "அருள்மிகு மகா காளியம்மன் திருக்கோவிலில் நவராத்திரி விழா பக்தியுடனும் சிறப்புடனும் கொண்டாடப்படுகிறது. அம்மனின் அருள் அனைவருக்கும் கிடைக்கட்டும். ஓம் சக்தி! 🌺",
+      "date": "2026-10-15",
+      "url": "/uploads/darshan-video-1792159394694.mp4",
+      "autoplay": false,
+      "loop": true,
+      "muted": true,
+      "controls": true
+    },
+    {
+      "id": "video-1792161127012",
+      "title": "நவராத்திரி விழா 🙏",
+      "category": "சிறப்பு பூஜை",
+      "description": "அருள்மிகு மகா காளியம்மன் திருக்கோவிலில் நவராத்திரி விழா பக்தியுடனும் சிறப்புடனும் கொண்டாடப்படுகிறது. அம்மனின் அருள் அனைவருக்கும் கிடைக்கட்டும். ஓம் சக்தி! 🌺",
+      "date": "2026-10-14",
+      "url": "/uploads/darshan-video-1792161094810.mp4",
+      "autoplay": false,
+      "loop": true,
+      "muted": true,
+      "controls": false
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "event-1789216353710-e0f8d335e55658",
+    "title": "மகா பிரத்யங்கிரா தேவி பூஜை",
+    "subtitle": "அஷ்டமி பூஜை",
+    "time": "காலை 8:00 மணி",
+    "date": "2026-09-18",
+    "day": "18",
+    "month": "செப்.",
+    "image": "/uploads/1789216353695-WhatsApp_Image_2026-08-03_at_12.52.24_PM__1_.jpeg",
+    "featured": false
+  },
+  {
+    "id": "event-1789216412364-3db10b1d8ffe",
+    "title": "ஊஞ்சல் சாமி பூஜை",
+    "subtitle": "அமாவாசை",
+    "time": "காலை 7:00 மணி",
+    "date": "2026-09-24",
+    "day": "24",
+    "month": "செப்.",
+    "image": "/uploads/1789216412358-WhatsApp_Image_2026-08-03_at_12.52.13_PM__1_.jpeg",
+    "featured": false
+  },
+  {
+    "id": "event-1789216458755-4090633bb3ab7",
+    "title": "திருவிழாக்கு பூஜை",
+    "subtitle": " பௌர்ணமி",
+    "time": "காலை 5:00 மணி",
+    "date": "2026-09-17",
+    "day": "17",
+    "month": "செப்.",
+    "image": "/uploads/1789216458745-WhatsApp_Image_2026-08-03_at_12.52.12_PM.jpeg",
+    "featured": false
+  },
+  {
+    "id": "event-1789216515729-961419d66a9ee",
+    "title": "கூழ் வார்த்தல்",
+    "subtitle": "ஆடி பூரம்",
+    "time": "காலை 4:00 மணி",
+    "date": "2026-09-22",
+    "day": "22",
+    "month": "செப்.",
+    "image": "/uploads/1789216515722-WhatsApp_Image_2026-08-03_at_12.52.11_PM__1_.jpeg",
+    "featured": false
+  },
+  {
+    "id": "event-1789216564687-a00deaed13f6c8",
+    "title": "ஆடி க்ரம் விழா",
+    "subtitle": "ஆடி",
+    "time": "காலை 8:00 மணி",
+    "date": "2026-09-15",
+    "day": "15",
+    "month": "செப்.",
+    "image": "/uploads/1789216564675-WhatsApp_Image_2026-08-03_at_12.52.21_PM__1_.jpeg",
+    "featured": false
+  },
+  {
+    "id": "event-1789216637394-6d0326b6359d5",
+    "title": "நவசக்தி அர்ச்சனை",
+    "subtitle": "நவசக்தி",
+    "time": "காலை 8:00 மணி",
+    "date": "2026-09-17",
+    "day": "17",
+    "month": "செப்.",
+    "image": "/uploads/1789216637386-WhatsApp_Image_2026-08-03_at_12.52.24_PM.jpeg",
+    "featured": false
+  },
+  {
+    "id": "event-1789216776154-c4f24a13f9c1a8",
+    "title": "தேர் உற்சவம்",
+    "subtitle": "நவசக்தி நிறைவு நாள்",
+    "time": "காலை 8:00 மணி",
+    "date": "2026-09-16",
+    "day": "16",
+    "month": "செப்.",
+    "image": "/uploads/1789216776148-WhatsApp_Image_2026-08-03_at_12.52.10_PM__1_.jpeg",
+    "featured": false
+  },
+  {
+    "id": "event-1789216823209-8ddf04485c7848",
+    "title": "5-நாள் கோவில் திருவிழா",
+    "subtitle": " திருவிழா",
+    "time": "காலை 8:00 மணி",
+    "date": "2026-09-01",
+    "day": "01",
+    "month": "செப்.",
+    "image": "/uploads/1789216823119-WhatsApp_Image_2026-08-03_at_12.52.23_PM__2_.jpeg",
+    "featured": false
+  },
+  {
+    "id": "event-1789216867315-ce07ad0e558fc",
+    "title": "பால் குடம்",
+    "subtitle": "சித்திரா பௌர்ணமி ",
+    "time": "காலை 8:00 மணி",
+    "date": "2026-10-02",
+    "day": "02",
+    "month": "அக்.",
+    "image": "/uploads/1789216867294-WhatsApp_Image_2026-08-03_at_12.52.20_PM.jpeg",
+    "featured": false
+  }
+]
